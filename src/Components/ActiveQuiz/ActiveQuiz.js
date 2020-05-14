@@ -1,7 +1,6 @@
 import React from 'react'
 import classes from './ActiveQuiz.module.css'
 import AnswersList from './AnswersList/AnswersList'
-import AnswerItem from './AnswersList/AnswerItem/AnswerItem'
 
 const ActiveQuiz = props => (
   <div className={classes.ActiveQuiz}>
